@@ -1,8 +1,6 @@
-# rust-learn
-Rust by exemple
-
-
+# Rust by exemple
 I'm trying to learn Rust !!!
+
 ### Mutability
 ```rust
 let _immutable_binding = 1;  // in Javascript const _immutable_binding = 1;
